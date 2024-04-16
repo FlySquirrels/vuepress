@@ -105,7 +105,7 @@ lang: en-US
 
 :tada: :100:
 
-你可以在[这个列表](https://github.com/markdown-it/markdown-it-emoji/blob/master/lib/data/full.json)找到所有可用的 Emoji。
+你可以在[这个列表](https://github.com/markdown-it/markdown-it-emoji/blob/master/lib/data/full.mjs)找到所有可用的 Emoji。
 
 ## 目录
 
